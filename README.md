@@ -26,6 +26,7 @@ ________________________________________________________________________________
 **Datasets : Election dataset 2024 and Alliance**
 
 **1) Insights of dashboard titled "Constituency Insights and Party Dynamics in Indian Elections" :**
+
 Leading Political Alliances and Parties by State:
 
 - The map visualization indicates the leading political alliances and parties across different states in India, giving a quick geographical representation   of political dominance.
