@@ -19,3 +19,9 @@ Here I’ve listed out all the Insights extracted from the queries and their res
 - Identifying Extremes: Identified countries with the highest confirmed cases and lowest deaths.
 
 - Top Ranked Countries: Found the top 5 countries with the highest recovered cases.
+
+
+
+
+
+
